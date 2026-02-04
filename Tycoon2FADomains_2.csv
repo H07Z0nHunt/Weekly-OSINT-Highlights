@@ -1,4 +1,5 @@
 type,value,source
+domain,virustotal.com,public
 domain,fgpvgwrvzd.es,public
 domain,jginic.es,public
 domain,eullsmfg.info,public
@@ -5475,7 +5476,8 @@ domain,rounocoo.web.id,public
 domain,vatootra.web.id,public
 domain,frilodi.web.id,public
 domain,fromaidou.web.id,public
-domain,virustotal.com,public
+
+
 
 
 
